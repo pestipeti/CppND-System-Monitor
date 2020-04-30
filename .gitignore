@@ -1,0 +1,10 @@
+monitor
+a.out
+settings.json
+*.o
+build/*
+*.json
+bin/
+lib/
+cmake-build-debug/
+.idea
